@@ -1,0 +1,19 @@
+{
+  "name": "sleact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChansongJo/sleact.git"
+  },
+  "author": "Chansong Jo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChansongJo/sleact/issues"
+  },
+  "homepage": "https://github.com/ChansongJo/sleact#readme"
+}
