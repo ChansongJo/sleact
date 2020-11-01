@@ -63,7 +63,12 @@ const config: webpack.Configuration = {
     path: path.join(__dirname, 'dist'),
     filename: '[name].js',
     publicPath: '/dist/',
-  }
+  },
+  devServer: {
+    historyApiFallback: true,
+    port: 3090,
+    publicPath: '/dist/',
+  },
 };
 //
 
